@@ -1,2 +1,2 @@
 # Bulk Renamer
- Renaming multiple files in a folder with python.
+ A python exercise from freeCodeCamp. With this program you can rename multiple files in a folder with just a few clicks.
